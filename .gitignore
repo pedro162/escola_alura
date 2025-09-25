@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# If you use collectstatic, ignore the static root
+/static_root/
+
+# Django migrations (keep the __init__.py)
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info
+
+# Environment variables
+.env
+*.env
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# MyPy / Pylint
+.mypy_cache/
+.dmypy.json
+dmypy.json
+pylint-report.txt
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.tar
+*.gz
+*.log
+docker-compose.override.yml
+#prototipo_banco.json
+media_root/
