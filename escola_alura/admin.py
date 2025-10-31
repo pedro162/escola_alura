@@ -24,3 +24,6 @@ class Matriculas(admin.ModelAdmin):
 
 admin.site.register(Matricula, Matriculas)
 #admin@gmai.com#pedro#123456
+
+#Controle de dependências do projeto
+#pip freeze > requirements.txt
