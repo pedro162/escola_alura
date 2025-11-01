@@ -130,7 +130,13 @@ POST /courses/
 
 ![Swagger - Enrollments Routes](./escola_alura/assets/project/images/swagger_subscriptions.png)
 
-_(Place your screenshots in the `/docs` folder of your project.)_
+---
+
+## 🖼️ Redoc UI Screenshots
+
+### 📘 Documentation
+
+![Redoc](./escola_alura/assets/project/images/redoc.png)
 
 ---
 
